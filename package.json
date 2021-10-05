@@ -34,7 +34,7 @@
     "vue": "^2.6.12",
     "vue-server-renderer": "^2.6.12",
     "vue-sweetalert2": "^2.1.1",
-    "xlsx": "^0.14.5"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@creativebulma/bulma-tooltip": "^1.2.0",
