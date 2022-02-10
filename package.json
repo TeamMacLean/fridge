@@ -26,7 +26,7 @@
     "lodash": "^4.17.20",
     "moment": "^2.24.0",
     "mongoose": "^5.6.10",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.15.0",
     "nuxt-buefy": "^0.4.4",
     "nuxt-fontawesome": "^0.4.0",
